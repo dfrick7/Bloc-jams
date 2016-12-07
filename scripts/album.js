@@ -154,4 +154,4 @@ var currentlyPlayingSong = null;
             index =0;
          }
      });
- }
+ };
